@@ -1,8 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+JuHyun😁)](https://git.io/typing-svg)
 
-<br>
-
 ## 👋 Welcome to My Github
 <br>안녕하세요! 
 <br>저는 Computer Vision의 여러가지 Task에 대해 공부중인 학생입니다
