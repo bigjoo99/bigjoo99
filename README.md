@@ -20,7 +20,7 @@
 - DATA SCIENCE PROJECTS 코칭스터디, Naver Boostcourse (2024.01 - 2024.02)
 - AI Engineer Basic: AI Tech 준비과정, Naver Boostcourse (2024.01 - 2024.02)
 - 강원대학교 컴퓨터공학과 졸업 (2018.03 - 2024.02)
-- Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - ing)
+- [Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - ing)](https://main--genai-dcv-showcase.netlify.app/)
 
 <br>
 <br>
