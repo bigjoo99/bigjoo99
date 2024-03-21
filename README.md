@@ -13,13 +13,13 @@
 <br>
 
 ## 🎓Educations & Experiences
+- 강원대학교 컴퓨터공학과 졸업 (2018.03 - 2024.02)
 - 여름방학 코딩테스트 대비 캠프, Code Tree (2022.07 - 2022.08)
 - Chatbot 학습을 위한 데이터 분류 작업, 한국전자기술연구원(KETI) 인공지능 연구센터 (2023.01 - 2023.02)
 - 강원대학교 CVMIP Lab 학부연구생 (2023.05 - 2023.12)
 - OUTTA AI 딥러닝 부트캠프, OUTTA (2023.07 - 2023.08)
 - DATA SCIENCE PROJECTS 코칭스터디, Naver Boostcourse (2024.01 - 2024.02)
 - AI Engineer Basic: AI Tech 준비과정, Naver Boostcourse (2024.01 - 2024.02)
-- 강원대학교 컴퓨터공학과 졸업 (2018.03 - 2024.02)
 - [Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - ing)](https://main--genai-dcv-showcase.netlify.app/)
 
 <br>
@@ -58,9 +58,7 @@
 <br>
 
 ##  💻Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=OPENCV&logoColor=white"> <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=OPENCV&logoColor=white">  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
 
 <br>
 <br>
