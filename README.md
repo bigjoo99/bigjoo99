@@ -12,7 +12,7 @@
 ## 🎓Educations & Experiences
 - 강원대학교 컴퓨터공학과 졸업 (2018.03 - 2024.02)
 - 강원대학교 CVMIP Lab 학부연구생 (2023.05 - 2023.12)
-- [Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - 2024.05)]
+- Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - 2024.05)
 
 
 <br>
