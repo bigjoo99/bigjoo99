@@ -11,13 +11,9 @@
 
 ## 🎓Educations & Experiences
 - 강원대학교 컴퓨터공학과 졸업 (2018.03 - 2024.02)
-- [Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - ing)](https://main--genai-dcv-showcase.netlify.app/)
 - 강원대학교 CVMIP Lab 학부연구생 (2023.05 - 2023.12)
-- DATA SCIENCE PROJECTS 코칭스터디, Naver Boostcourse (2024.01 - 2024.02)
-- AI Engineer Basic: AI Tech 준비과정, Naver Boostcourse (2024.01 - 2024.02)
-- OUTTA AI 딥러닝 부트캠프, OUTTA (2023.07 - 2023.08)
-- Chatbot 학습을 위한 데이터 분류 작업, 한국전자기술연구원(KETI) 인공지능 연구센터 (2023.01 - 2023.02)
-- 여름방학 코딩테스트 대비 캠프, Code Tree (2022.07 - 2022.08)
+- [Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - 2024.05)]
+
 
 <br>
 <br>
