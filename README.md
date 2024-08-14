@@ -23,7 +23,7 @@
 ## 👨‍💻Project
 - [MediaPipe와 MachineLearning을 활용한 실시간 수어 번역 프로젝트](https://github.com/bigjoo99/HandLang_Project_Knn)
 - [StackGAN++와 Contrastive Loss를 활용한 Text-to-Image 프로젝트](https://github.com/bigjoo99/Text-to-Image-Project)
-
+- StegaStamp를 활용한 신진 작가 예술 작품 보호 프로젝트
 <br>
 <br>
 
