@@ -42,8 +42,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
     </a>
 
-    [![Instagram]("https://www.instagram.com/_bigjoo")](https://www.instagram.com)
-
 </div>
  
 <br>
