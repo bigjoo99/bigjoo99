@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+JuHyun😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-<br>안녕하세요. 
+안녕하세요. 
 <br>Computer Vision 분야에 대해 공부 하고 있습니다.
 <br>
 <br>
