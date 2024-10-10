@@ -18,12 +18,7 @@
 <br>
 <br>
 
-## 👨‍💻Project
-- [MediaPipe와 MachineLearning을 활용한 실시간 수어 번역 프로젝트](https://github.com/bigjoo99/HandLang_Project_Knn)
-- [StackGAN++와 Contrastive Loss를 활용한 Text-to-Image 프로젝트](https://github.com/bigjoo99/Text-to-Image-Project)
-- StegaStamp를 활용한 신진 작가 예술 작품 보호 프로젝트
-<br>
-<br>
+
 
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">
@@ -42,12 +37,4 @@
 
 </div>
  
-<br>
-<br>
-
-##  💻Skill
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=OPENCV&logoColor=white">  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
-
-<br>
-<br>
 
