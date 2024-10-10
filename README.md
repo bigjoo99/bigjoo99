@@ -2,16 +2,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+JuHyun😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-안녕하세요. 
-<br>Computer Vision 분야에 대해 공부 하고 있습니다.
+Hello, 
+<br>I am studying in the field of Computer Vision.
 <br>
 <br>
 
 ## 🎓Educations & Experiences
-- 중앙대학교 첨단영상대학원 CM&PAI Lab 석사과정 (2024.08 ~ ing)
+- Master's program in CM&PAI Lab at Chung-Ang University Graduate School of Advanced Imaging Science (2024.08 - ing)
 - Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - 2024.05)
-- 강원대학교 컴퓨터공학과 졸업 (2018.03 - 2024.02)
-- 강원대학교 CVMIP Lab 학부연구생 (2023.05 - 2023.12)
+- Bachelor's in Computer Engineering, Kangwon National University (2018.03 - 2024.02)
+- Research intern at CVMIP Lab, Kangwon National University (2023.05 - 2023.12)
 
 
 
