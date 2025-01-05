@@ -2,8 +2,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+JuHyun😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-Hello, 
-<br>I am studying in the field of Computer Vision.
+Hello, I'm studying in the field of Computer Vision.
+
 <br>
 <br>
 
@@ -14,11 +14,8 @@ Hello,
 - Research intern at CVMIP Lab, Kangwon National University (2023.05 - 2023.12)
 
 
-
 <br>
 <br>
-
-
 
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">
