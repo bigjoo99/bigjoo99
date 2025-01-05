@@ -9,7 +9,7 @@ Hello, I'm studying in the field of Computer Vision.
 
 ## 🎓Educations & Experiences
 - Master's program in CM&PAI Lab at Chung-Ang University Graduate School of Advanced Imaging Science (2024.08 - ing)
-- Deep Computer Vision Lab STUDY, ModuLabs (2024.01 - 2024.05)
+- Deep Computer Vision Lab, ModuLabs (2024.01 - 2024.05)
 - Bachelor's in Computer Engineering, Kangwon National University (2018.03 - 2024.02)
 - Research intern at CVMIP Lab, Kangwon National University (2023.05 - 2023.12)
 
