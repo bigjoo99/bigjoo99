@@ -2,12 +2,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+JuHyun😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-Hello, I'm studying in the field of Computer Vision.
+I am currently pursuing an M.S. degree at the Graduate School of Advanced Imaging Science, Multimedia, and Film (GSAIM) at Chung-Ang University in Seoul, South Korea. I am a member of the Perceptual AI Lab, where we focus on cutting-edge research in deep learning, computer vision, and high-level visual understanding. 
 
 <br>
 <br>
 
-## 🎓Educations & Experiences
+## 📚 Research Interests
+- Computer Vision
+- High-level Vision
+- Video Anomaly Detection
+- Video Understanding
+
+  
+<br>
+<br>
+
+
+## 🎓 Educations & Experiences
 - Master's program in CM&PAI Lab at Chung-Ang University Graduate School of Advanced Imaging Science (2024.08 - ing)
 - Deep Computer Vision Lab, ModuLabs (2024.01 - 2024.05)
 - Bachelor's in Computer Engineering, Kangwon National University (2018.03 - 2024.02)
