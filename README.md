@@ -8,8 +8,7 @@ I am currently pursuing an M.S. degree at the Graduate School of Advanced Imagin
 <br>
 
 ## 📚 Research Interests
-- Computer Vision
-- High-level Vision
+- Deep Learning & Computer Vision
 - Video Anomaly Detection
 - Video Understanding
 
