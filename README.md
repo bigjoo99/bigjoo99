@@ -35,9 +35,9 @@ I am currently pursuing an M.S. degree at the Graduate School of Advanced Imagin
     <a href="mailto:ksoark0108@naver.com">
         <img src="https://img.shields.io/badge/Naver-037C5A?style=flat-square&logo=Naver&logoColor=white"> 
     </a>
-    <a href="https://bigjoo.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=Tistory&logoColor=white">
-    </a>
+    [//] <a href="https://bigjoo.tistory.com/">
+    [//]    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat-square&logo=Tistory&logoColor=white">
+    [//] </a>
     <a href="https://www.instagram.com/_bigjoo">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> 
     </a>
