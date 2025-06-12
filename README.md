@@ -10,7 +10,7 @@ I am currently pursuing an M.S. degree at the Graduate School of Advanced Imagin
 ## 📚 Research Interests
 - Deep Learning & Computer Vision
 - Video Anomaly Detection
-- Video Understanding
+- Multi-modal LLM
 
   
 <br>
