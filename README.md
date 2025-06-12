@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World+🌏+I'm+BigJoo😁)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World+🌏+I'm+JuHyun😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
 I am currently pursuing an M.S. degree at the Graduate School of Advanced Imaging Science, Multimedia, and Film (GSAIM) at Chung-Ang University in Seoul, South Korea. I am a member of the Perceptual AI Lab [(PAI LAB)](https://pailab.cau.ac.kr), where we focus on cutting-edge research in deep learning, computer vision, and high-level visual understanding. 
